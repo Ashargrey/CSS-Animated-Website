@@ -33,3 +33,15 @@ This project was created to practice:
 
 👉 [View Live Project](https://css-scrolling-animation-by-ashar-ali.netlify.app/)
 
+##🤝 Contributing
+
+Feel free to fork this repo and improve animations or UI.
+
+---
+
+##📧 Contact
+
+If you like this project, give it a ⭐ and connect with me!
+
+Made with ❤️ by Ashar Khan
+
