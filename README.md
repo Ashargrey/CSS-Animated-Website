@@ -31,5 +31,5 @@ This project was created to practice:
 
 ## 🚀 Live Demo
 
-👉 [View Live Project]([https://css-scrolling-animation-by-ashar-ali.netlify.app/])
+👉 [View Live Project](https://css-scrolling-animation-by-ashar-ali.netlify.app/)
 
