@@ -130,7 +130,6 @@
      margin-bottom: 100px;
  }
 
- /* Animations */
  @keyframes fromLeft {
      from {
          opacity: 0;
